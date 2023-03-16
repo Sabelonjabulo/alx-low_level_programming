@@ -1,13 +1,14 @@
 #include <stdio.h>
-
 /**
 
 *main - Entry point
+*
 *Description: This program prints a string using the puts function.
-*Return: 0
+*
+*Return: Alwasys  0 (Success)
 */
-
-int main() {
+int main(void) 
+{
 	puts("\"Programming is like building a multilingual puzzle");
 	return 0;
 }
