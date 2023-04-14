@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 #include <stdlib.h>
 
 /**
@@ -8,6 +8,7 @@
  *
  * Return: 0 on success, 1 on error
  */
+
 int main(int argc, char **argv)
 {
         int a, b, result;
@@ -26,4 +27,3 @@ int main(int argc, char **argv)
 
         return (0);
 }
-
